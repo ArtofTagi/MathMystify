@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MathPuzzleGame.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Math Puzzle Game\Scripts\LevelManager.cs">
+    <Files>
+      <File FileName="Assets\Math Puzzle Game\Scripts\LevelManager.cs" Line="76" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
